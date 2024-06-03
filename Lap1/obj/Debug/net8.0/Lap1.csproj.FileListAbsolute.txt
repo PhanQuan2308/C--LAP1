@@ -1,0 +1,14 @@
+F:\FPT\C#\Lap1\bin\Debug\net8.0\Lap1.exe
+F:\FPT\C#\Lap1\bin\Debug\net8.0\Lap1.deps.json
+F:\FPT\C#\Lap1\bin\Debug\net8.0\Lap1.runtimeconfig.json
+F:\FPT\C#\Lap1\bin\Debug\net8.0\Lap1.dll
+F:\FPT\C#\Lap1\bin\Debug\net8.0\Lap1.pdb
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.AssemblyInfoInputs.cache
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.AssemblyInfo.cs
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.csproj.CoreCompileInputs.cache
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.dll
+F:\FPT\C#\Lap1\obj\Debug\net8.0\refint\Lap1.dll
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.pdb
+F:\FPT\C#\Lap1\obj\Debug\net8.0\Lap1.genruntimeconfig.cache
+F:\FPT\C#\Lap1\obj\Debug\net8.0\ref\Lap1.dll
